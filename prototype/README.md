@@ -1,5 +1,5 @@
 # prototype
-This is my first attempt at making a onehanded ergonomical mechanical keyboard. It mostly worked as expected, see [Bugs](##Bugs). 
+This is my first attempt at making a onehanded ergonomical mechanical keyboard. It mostly worked as expected, see [Bugs](#Bugs). 
 
 ## Folders
 * Pictures of the final product are in the folder *product pictures*.
