@@ -5,7 +5,6 @@ This is my first attempt at making a onehanded keyboard. It mostly worked as exp
 
 ## frame
 3D objects and corresponding gcode files for case and plate are in the folder *frame*. *Fusion 360* and *PrusaSlicer* was used to design these. The print was produced at [*Omega Verksted*](https://www.omegav.ntnu.no/) at NTNU.
-* pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to create these. 
 
 ## pcb
 The pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to create these. 
