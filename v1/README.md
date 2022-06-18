@@ -3,12 +3,12 @@ This is my first attempt at making a onehanded keyboard. It mostly worked as exp
 
 <img src="https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Side%20view.JPG" width=40% height=40%> <img src="https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Top%20view.JPG" width=40% height=40%>
 
-## Folders
-* Pictures of the final product are in the folder *product pictures*.
-* 3D objects and corresponding gcode files for case and plate are in the folder *frame*. *Fusion 360* and *PrusaSlicer* was used to produce these.
+## frame
+3D objects and corresponding gcode files for case and plate are in the folder *frame*. *Fusion 360* and *PrusaSlicer* was used to design these. The print was produced at [*Omega Verksted*](https://www.omegav.ntnu.no/) at NTNU.
 * pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to create these. 
 
 ## pcb
+The pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to create these. 
 The pcb was ordered from [JLCPCB](https://jlcpcb.com/), and the components and connections were soldered by hand.
 
 ## Code
