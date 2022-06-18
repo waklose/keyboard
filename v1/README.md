@@ -1,7 +1,7 @@
 # prototype
 This is my first attempt at making a onehanded keyboard. It mostly worked as expected, see [Bugs](#Bugs). 
 
-![alt text](https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Side%20view.JPG?raw=true)
+![alt text](https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Side%20view.JPG?raw=true | width = 200)
 
 ## Folders
 * Pictures of the final product are in the folder *product pictures*.
