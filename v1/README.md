@@ -12,7 +12,7 @@ The pcb was ordered from [JLCPCB](https://jlcpcb.com/), and the components and c
 
 ## Code
 * The raspberry pi 4 was configured as a keyboard using [this](https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/) online tutorial.
-* The code was written in python and it is not appended. It was a very simple while true loop. It did not check handle *switch bounce* in any way, however this did not turn out to be a problem.
+* The code was written in python and it is not appended. It was a very simple while true loop. It did not handle *switch bounce* in any way, however this did not turn out to be a problem.
 
 ## Choice of components
 * Raspberry pi 4: A small computer in and of itself, so it's definitely way stronger than needed. I used it simply because I had one at hand, and it is connected to the pcb via a flat cable so it can still be disconnected and used for other projects. A simple microcontroller such as the *Arduino Pro Micro* would be a more reasonable choice. However the microchip (ATmega32U4) has fewer gpio ports and would require me to make a standard keyboard matrix. Which would require a diode for every switch in order to avoid ghosting. It seemed simpler use a controller with more gpio ports.
