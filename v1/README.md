@@ -1,4 +1,4 @@
-# prototype
+# v1
 This is my first attempt at making a onehanded keyboard. It mostly worked as expected, see [Bugs](#Bugs). 
 
 <img src="https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Side%20view.JPG" width=40% height=40%> <img src="https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Top%20view.JPG" width=40% height=40%>
