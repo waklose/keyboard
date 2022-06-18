@@ -1,10 +1,15 @@
 # prototype
-This is my first attempt at making a onehanded ergonomical mechanical keyboard. It mostly worked as expected, see [Bugs](#Bugs). 
+This is my first attempt at making a onehanded keyboard. It mostly worked as expected, see [Bugs](#Bugs). 
+
+![alt text](https://github.com/waklose/keyboard/blob/main/v1/product%20pictures/Side%20view.JPG?raw=true)
 
 ## Folders
 * Pictures of the final product are in the folder *product pictures*.
 * 3D objects and corresponding gcode files for case and plate are in the folder *frame*. *Fusion 360* and *PrusaSlicer* was used to produce these.
-* pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to produce these.
+* pcb and corresponding schematic are in the *pcb* folder. *EasyEDA* was used to create these. 
+
+## pcb
+The pcb was ordered from [JLCPCB](https://jlcpcb.com/), and the components and connections were soldered by hand.
 
 ## Code
 * The raspberry pi 4 was configured as a keyboard using [this](https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/) online tutorial.
