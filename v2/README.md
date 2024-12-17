@@ -1,4 +1,4 @@
-# v2 - work in progress
+# v2
 Additions/improvements are going to be: backlighting, integrated microcontroller, more comfortable design, better looking design. 
 
 ## Choice of components
