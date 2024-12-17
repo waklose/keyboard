@@ -7,5 +7,5 @@ The motivation behind making my own keyboard was the fact that I didn't have a k
 ## v1
 This is a onehanded ergonomical hotswappable mechanical keyboard. Lots of nice adjectives, but the onehanded part is the most important. The result turned out a little bit clunky and a little unpolished, but it got the job done. More details in the dedicated folder.
 
-## v2 - work in progress
-This is going to be a significant improvement to the previous version. Additions/improvements are: backlighting, integrated microcontroller, more comfortable design, better looking design.
+## v2
+Intended Additions/improvements are: backlighting, integrated microcontroller, more comfortable design, better looking design.
